@@ -1,6 +1,4 @@
-*  {
-  box-sizing: border-box;
-}
+
 
 @font-face {
     font-family: 'nunito_sansregular';
@@ -23,11 +21,12 @@
 
 }
 
+html {
+  height: 100%;
+}
+
 body {
   font-family: "montserrat_alternatesmedium";
-<<<<<<< HEAD
-}fonts/
-=======
   height: 100%;
   margin: 0;
   padding: 0;
@@ -153,4 +152,3 @@ body {
   flex: 0 0 auto;
 }
 
->>>>>>> 576f977... task-1
